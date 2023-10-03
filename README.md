@@ -2,7 +2,7 @@
 
 Um dos principais problemas encarados pelos sistemas conversacionais é o fato dos modelos não serem atualizados ao longo do tempo. Conforme os novos dados são gerados e o ambiente em que o sistema opera se transforma, ocorre um fenômeno conhecido como concept drift, que é a mudança gradual nas distribuições dos dados de entrada ao longo do tempo. Como consequência disso, respostas imprecisas ou desatualizadas do sistema podem ocorrer, comprometendo a qualidade da interação com os usuários.
 
-![Alt text](diagrama.png)
+<img src='https://imgur.com/nch3fET.png'/>
 
 Descrição do diagrama de blocos:
 
